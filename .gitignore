@@ -1,0 +1,4 @@
+backup/
+gcode_finetuned_model/
+gcode_translation_model/
+results/

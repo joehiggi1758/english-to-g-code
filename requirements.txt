@@ -1,0 +1,6 @@
+transformers
+datasets
+torch
+gradio
+accelerate
+clear

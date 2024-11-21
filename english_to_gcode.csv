@@ -1,0 +1,4 @@
+instruction,gcode
+"Move X=10", "G1 X10"
+"Move Y=20", "G1 Y20"
+"Set speed to 100", "S100"
